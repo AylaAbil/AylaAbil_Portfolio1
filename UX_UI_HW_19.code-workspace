@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../DRAFTCodeSAMPLES/very_first_code"
+		},
+		{
+			"path": "../bootstrapsss/Bootstrap_Components 2/Solved"
+		},
+		{
+			"path": "../My Code/Week20/HW20"
+		},
+		{
+			"path": "../M:A Class codes/m:acode"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "UX_UI_HW_19"
+	}
+}
